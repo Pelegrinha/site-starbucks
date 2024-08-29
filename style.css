@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: red;
+}
+.fundo {
+    background-image: url(imagem\ de\ fundo\ starbucks.jpg) ;
+    background-size: 40%;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 10%;
+}
