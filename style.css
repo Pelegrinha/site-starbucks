@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&family=Nunito+Sans:ital,wght@0,400;0,700;0,800;1,300;1,700&family=Poppins:wght@400;500;600;700;800;900&display=swap');
+
 body {
-    background-color: black;
-    color: red;
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+    color: green
 }
 p {
     font-size: large;
@@ -11,4 +14,34 @@ p {
 .fundo {
     width: 100%;
     text-align: center;
+}
+.starbucks {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    background-image: url(plain-white-background-1606139521arW.jpg);
+    background-size: 100%;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    display: inline;
+    padding: 10px;
+    font-family: 'poppins', 'sans-serif';
+    color: black;
+    border-style: solid;
+    border-radius: 50%;
+}
+
+.paginainicial {
+    text-align: right;
+}
+.logo {
+    text-align: left;
+    height: 50px;
+    border-radius: 50%;
 }
