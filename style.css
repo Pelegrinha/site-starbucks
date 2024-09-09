@@ -45,3 +45,6 @@ li {
     height: 50px;
     border-radius: 50%;
 }
+.paginainicial :hover {
+color: white;
+}
